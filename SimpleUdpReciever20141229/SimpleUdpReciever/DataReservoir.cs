@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SimpleUdpReciever
 {
+    /// <summary>
+    /// 数据处理
+    /// </summary>
     class DataReservoir
     {
         private Thread persistenceThread;
